@@ -164,22 +164,5 @@ while numero < 10:
 
 ---
 
-##  Instrucciones para subir a GitHub
 
-1. Crea una carpeta llamada `estructuras-condicionales-bucles/`.
-2. Dentro, crea una subcarpeta `ejemplos/`.
-3. Crea los archivos `.py` y el `README.md` con el contenido proporcionado.
-4. Inicia un repositorio Git y sube todo a GitHub:
-
-```bash
-cd estructuras-condicionales-bucles
-git init
-git add .
-git commit -m "Primer commit"
-git branch -M main
-git remote add origin https://github.com/tuusuario/estructuras-condicionales-bucles.git
-git push -u origin main
-```
-
----
 
